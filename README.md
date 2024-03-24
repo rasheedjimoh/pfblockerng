@@ -1,5 +1,6 @@
 # DNS Security with pfBlockerNG + unbound
 
+## Introduction
 Today, let's dive into setting up a robust DNS security and ad-blocking solution using pfBlockerNG and unbound. This powerful combination not only enhances your network security but also ensures a seamless browsing experience by blocking those pesky ads.
 
 ![dnsbl-block stat](https://github.com/rasheedjimoh/pfblockerng/assets/157264080/485ee5c3-d6a9-44cf-a605-10ad163207cd)
